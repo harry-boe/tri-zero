@@ -9,7 +9,7 @@ I try to maintain a "Assembled" CAD to help putting all this mods together
 ![Assembled](./Images/T0_Assembled_2023-Jul-28_05-46-38PM-000_CustomizedView11802632295.png)
 
 
-Also check out my channel on dicord https://discord.com/channels/825469421346226226/1051614081859207168
+Also check out my channel on discord https://discord.com/channels/825469421346226226/1051614081859207168
 
 
 | Mod | Image| Notes|
